@@ -20,3 +20,7 @@ The concept is simple:
 I used an Arduino nano clone so it would fit nicely in the gum container. I also used a big arcade-style button I had lying around
 from another project, but any momentary on button would work fine.
 
+A schematic, built in ExpressSCM, is included.
+
+The moosetimer code and schematic are public domain. Do with them as you will.
+
